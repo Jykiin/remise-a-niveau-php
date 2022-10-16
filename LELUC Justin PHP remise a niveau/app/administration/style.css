@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: white;
+    margin-bottom: 1vw ;
+}
+.titre-article{
+    background-color: darkgrey;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+.div-article{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   justify-content: space-around;
+}
+.div-boutton{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    justify-content: space-around;
+    display: flex;
+    list-style: none;
+}
+a{
+    color: white;
+}
+a:link{
+   
+    text-decoration: none;
+}
+header{
+    background-color: black;
+    margin-top: 0%;
+   margin-bottom: 2vw;
+    padding:3% 0% 3% 0%;
+
+}
